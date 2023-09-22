@@ -1,5 +1,5 @@
 - Hi, I’m @Ethan-Childs and I am a student at Texas Tech University majoring in Computer Science.
-- As for now I plan to use this platform as a catalog for my coding journey. 
+- As for now I plan to use this platform as a catalog for things I code. 
 - You can contact me below
    - Email ethanchildsbc@gmail.com
 
