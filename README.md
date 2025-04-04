@@ -1,4 +1,4 @@
-**About Me**
+**About Me** <br>
 I am Ethan Childs, a university student getting my Bachelor's of Science in Computer Science with a minor in Mathematics. Please visit my repository Ethan_Childs_Resume to view my resume.
 
 **Programming Languages** <br>
