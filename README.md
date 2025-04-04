@@ -2,7 +2,7 @@
 I am Ethan Childs, a student at Texas Tech University getting my Bachelor's of Science in Computer Science with a minor in Mathematics. Please visit my repository Ethan_Childs_Resume to view my resume.
 
 **Programming Languages** <br>
-I have experience in the following programming languages: <br>
+I have experience using the following programming languages: <br>
 Python <br>
 C <br>
 Java <br>
