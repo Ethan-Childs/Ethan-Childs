@@ -13,7 +13,7 @@ LaTex <br>
 I have experience using the follow softwares: <br>
 Excel Spreadsheets <br>
 Microsoft Word <br> 
-Micsoft PowerPoint <br>
+Microsoft PowerPoint <br>
 
 **Current Employment** <br>
 I am currently working as a Data Analyst for a biotech research company, where I help train the company's AI to enhance the accuracy of pharmaceutical test data on C. elegans. I also compare my own annotation data to the AI's results using Excel spreadsheets.
