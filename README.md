@@ -7,13 +7,13 @@ Python <br>
 C <br>
 Java <br>
 Bash <br>
-LaTex <br>
 
 **Software Tools** <br>
 I have experience using the follow software tools: <br>
 Excel Spreadsheets <br>
 Microsoft Word <br> 
 Microsoft PowerPoint <br>
+LaTex <br>
 
 **Current Employment** <br>
 I am currently working as a Data Analyst for a biotech research company, where I help train the company's AI to enhance the accuracy of pharmaceutical test data on C. elegans. I also compare my own annotation data to the AI's results using Excel spreadsheets.
