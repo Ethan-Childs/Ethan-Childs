@@ -10,7 +10,7 @@ Bash <br>
 LaTex <br>
 
 **Software Tools** <br>
-I have experience using the follow software tools: <br>
+I have experience using the following software tools: <br>
 Excel Spreadsheets <br>
 Microsoft Word <br> 
 Microsoft PowerPoint <br>
