@@ -3,7 +3,9 @@ I am Ethan Childs, a student at Texas Tech University getting my Master of Scien
 
 **Technical Skills** <br>
 Programming Languages: Python, SQL, R, Bash
+
 Libraries and Frameworks: Pandas, NumPy, scikit-learn, Matplotlib, Streamlit
+
 Software Tools: Excel, GitHub, VS Code, Microsoft Word, Microsoft PowerPoint
 
 
