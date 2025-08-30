@@ -2,11 +2,9 @@
 I am Ethan Childs, a student at Texas Tech University getting my Master of Science in Computer Science. Please visit my repository [Ethan_Childs_Resume](https://github.com/Ethan-Childs/Ethan_Childs_Resume) to view my resume.
 
 **Technical Skills** <br>
-Programming Languages: Python, SQL, R, Bash
-
-Libraries and Frameworks: Pandas, NumPy, scikit-learn, Matplotlib, Streamlit
-
-Software Tools: Excel, GitHub, VS Code, Microsoft Word, Microsoft PowerPoint
+Programming Languages: Python, SQL, R, Bash<br>
+Libraries and Frameworks: Pandas, NumPy, scikit-learn, Matplotlib, Streamlit<br>
+Software Tools: Excel, GitHub, VS Code, Microsoft Word, Microsoft PowerPoint<br>
 
 
 **Current Employment** <br>
