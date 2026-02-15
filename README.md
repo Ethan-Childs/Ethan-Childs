@@ -4,7 +4,7 @@ I am a Computer Science student at Texas Tech University with a focus on data sc
 **Technical Skills** <br>
 Programming Languages: Python, SQL, R<br>
 Cloud Platforms: Microsoft Azure, AWS<br>
-Analytics Tools: Power BI, Tableau, Excel, Microsoft Office<br>
+Analytics Tools: Power BI, Tableau, Excel<br>
 
 <!---
 Ethan-Childs/Ethan-Childs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
