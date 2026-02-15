@@ -1,10 +1,10 @@
 **About Me** <br>
-I am Ethan Childs, a student at Texas Tech University studying Computer Science while working as an AI Research Analyst. Please visit my repository [Ethan_Childs_Resume](https://github.com/Ethan-Childs/Ethan_Childs_Resume) to view my resume.
+I am a Computer Science student at Texas Tech University with a focus on data science and mathematics. I currently work as an AI Research Analyst, where I support model development and building training datasets. Please visit my repository [Ethan_Childs_Resume](https://github.com/Ethan-Childs/Ethan_Childs_Resume) to view my resume.
 
 **Technical Skills** <br>
-Programming Languages: Python, SQL, R, Bash<br>
-Libraries and Frameworks: Pandas, NumPy, scikit-learn, Matplotlib, Streamlit<br>
-Software Tools: Excel, GitHub, VS Code, Microsoft Word, Microsoft PowerPoint<br>
+Programming Languages: Python, SQL, R<br>
+Cloud Platforms: Microsoft Azure, AWS<br>
+Analytics Tools: Power BI, Tableau, Excel, Microsoft Office<br>
 
 <!---
 Ethan-Childs/Ethan-Childs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
