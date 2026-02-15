@@ -1,5 +1,5 @@
 **About Me** <br>
-I am a Computer Science student at Texas Tech University with a focus on data science and mathematics. I currently work as an AI Research Analyst, where I support model development and building training datasets. Please visit my repository [Ethan_Childs_Resume](https://github.com/Ethan-Childs/Ethan_Childs_Resume) to view my resume.
+I am a Computer Science student at Texas Tech University with a focus on data science and mathematics. I currently work as an AI Research Analyst, where I support model development and building training dataset engineering. Please visit my repository [Ethan_Childs_Resume](https://github.com/Ethan-Childs/Ethan_Childs_Resume) to view my resume.
 
 **Technical Skills** <br>
 Programming Languages: Python, SQL, R<br>
