@@ -12,7 +12,13 @@ I am currently a Data Engineer Intern at PACCAR, working with Peterbilt Motors C
 
 My primary interests include data engineering, analytics engineering, cloud infrastructure, and building scalable systems that solve real business problems.
 
-- LinkedIn: [linkedin.com/in/ethanchilds](https://www.linkedin.com/in/ethanchilds/)
+---
+
+## Contact
+
+- **Email:** [ethanchildsbc@gmail.com](mailto:ethanchildsbc@gmail.com)
+- **LinkedIn:** [linkedin.com/in/ethanchilds](https://www.linkedin.com/in/ethanchilds/)
+- **GitHub:** [github.com/Ethan-Childs](https://github.com/Ethan-Childs)
 
 ---
 
@@ -55,32 +61,37 @@ My primary interests include data engineering, analytics engineering, cloud infr
 ## Projects
 
 ### MLO Data Automation Application
+
 **Technologies:** Python, SQL, Snowflake, Flask, JavaScript, HTML, CSS, AWS Lambda, Amazon ECR, API Gateway, Amazon S3, CloudWatch, Docker, Terraform
 
 A full-stack data application developed for PACCAR to automate vehicle-data retrieval and reduce a manual lookup process from approximately 20 minutes to near-instant results.
 
-
 ### NASA Space Biology Research — NemaLife
-**Technologies:** Python, SQL, Power BI, Excel, JSON, data visualization
+
+**Technologies:** Python, SQL, Power BI, Excel, JSON, Data Visualization
 
 Supported biological research involving *C. elegans* by analyzing live video data, evaluating microfluidic chip responses, validating experimental datasets, and developing Power BI visualizations to track key research metrics.
 
 - [View the NASA Open Science Data Repository Study — OS-780](https://osdr.nasa.gov/bio/repo/data/experiments/OS-780)
 
-
 ### Basketball Analytics Data Pipeline
-**Technologies:** Python, pandas, Excel, computer vision data, data analytics
+
+**Technologies:** Python, pandas, Excel, Computer Vision Data, Data Analytics
 
 Developed a Python pipeline that cleaned, validated, and transformed raw computer vision data into structured basketball analytics datasets. The system calculated shooting percentages, shot distances, court-zone efficiency, and spatial heatmap coordinates.
 
+### [AI Contract Analytics Platform](https://github.com/Ethan-Childs/ai-contract-analysis-platform)
 
-
-### AI Contract Analytics Platform
 **Technologies:** JavaScript, HTML, CSS, Python, JSON
 
 Built the frontend for an AI-powered contract analysis application, including document-upload functionality, an interactive chatbot interface, custom LLM API-key integration, and responsive components for displaying compliance reports.
 
+- [View the GitHub Repository](https://github.com/Ethan-Childs/ai-contract-analysis-platform)
 
+<!---
+Ethan-Childs/Ethan-Childs is a special repository because its README.md appears on the GitHub profile.
+--->
+```
 
 
 
