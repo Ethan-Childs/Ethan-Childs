@@ -64,7 +64,7 @@ My primary interests include data engineering, analytics engineering, cloud infr
 
 **Technologies:** Python, SQL, Snowflake, Flask, JavaScript, HTML, CSS, AWS Lambda, Amazon ECR, API Gateway, Amazon S3, CloudWatch, Docker, Terraform
 
-A full-stack data application developed for PACCAR to automate vehicle-data retrieval, reduce a manual lookup process from approximately 20 minutes to near-instant results, and generate an estimated $100,000 in annual savings.
+A full-stack data application developed for PACCAR’s Inside Sales team to automate vehicle-data retrieval, reduce a manual lookup process from approximately 20 minutes to near-instant results, and generate an estimated $100,000 in annual savings.
 
 ### NASA Space Biology Research — NemaLife
 
