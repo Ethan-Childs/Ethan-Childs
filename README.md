@@ -2,7 +2,7 @@
 
 MS Data Science Student @ UT Austin | Computer Science Graduate @ Texas Tech University | Data Engineer Intern @ PACCAR | Data Analyst @ NemaLife
 
-[View My Resume](https://github.com/Ethan-Childs/Ethan_Childs_Resume)
+[Resume Repository — View my current resume and download the editable template](https://github.com/Ethan-Childs/Ethan_Childs_Resume)
 
 ---
 
