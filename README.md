@@ -1,6 +1,6 @@
 # Hi, I'm Ethan
 
-Incoming MS Data Science Student @ UT Austin | Computer Science Graduate @ Texas Tech University | Data Engineer Intern @ PACCAR | Data Analyst @ NemaLife
+MS Data Science Student @ UT Austin | Computer Science Graduate @ Texas Tech University | Data Engineer Intern @ PACCAR | Data Analyst @ NemaLife
 
 ---
 
