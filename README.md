@@ -55,40 +55,30 @@ My primary interests include data engineering, analytics engineering, cloud infr
 ## Projects
 
 ### MLO Data Automation Application
-
+**Technologies:** Python, SQL, Snowflake, Flask, JavaScript, HTML, CSS, AWS Lambda, Amazon ECR, API Gateway, Amazon S3, CloudWatch, Docker, Terraform
 A full-stack data application developed for PACCAR to automate vehicle-data retrieval and reduce a manual lookup process from approximately 20 minutes to near-instant results.
 
-**Technologies:** Python, SQL, Snowflake, Flask, JavaScript, HTML, CSS, AWS Lambda, Amazon ECR, API Gateway, Amazon S3, CloudWatch, Docker, Terraform
 
 ### NASA Space Biology Research — NemaLife
-
+**Technologies:** Python, SQL, Power BI, Excel, JSON, data visualization
 Supported biological research involving *C. elegans* by analyzing live video data, evaluating microfluidic chip responses, validating experimental datasets, and developing Power BI visualizations to track key research metrics.
 
 - [View the NASA Open Science Data Repository Study — OS-780](https://osdr.nasa.gov/bio/repo/data/experiments/OS-780)
 
-**Technologies:** Python, SQL, Power BI, Excel, JSON, data visualization
 
 ### Basketball Analytics Data Pipeline
-
+**Technologies:** Python, pandas, Excel, computer vision data, data analytics
 Developed a Python pipeline that cleaned, validated, and transformed raw computer vision data into structured basketball analytics datasets. The system calculated shooting percentages, shot distances, court-zone efficiency, and spatial heatmap coordinates.
 
-**Technologies:** Python, pandas, Excel, computer vision data, data analytics
+
 
 ### AI Contract Analytics Platform
-
+**Technologies:** JavaScript, HTML, CSS, Python, JSON
 Built the frontend for an AI-powered contract analysis application, including document-upload functionality, an interactive chatbot interface, custom LLM API-key integration, and responsive components for displaying compliance reports.
 
-**Technologies:** JavaScript, HTML, CSS, Python, REST APIs, JSON
 
----
 
-## Current Focus
 
-- Building production-ready data applications
-- Developing scalable Python and SQL pipelines
-- Expanding my experience with Snowflake and AWS
-- Strengthening my cloud infrastructure and deployment skills
-- Preparing to begin the MS in Data Science program at UT Austin
 
 <!---
 Ethan-Childs/Ethan-Childs is a special repository because its README.md appears on the GitHub profile.
