@@ -24,7 +24,7 @@ My primary interests include data engineering, analytics engineering, cloud infr
 
 ## Technical Skills
 
-**Programming Languages:** Python, SQL, JavaScript, C, Bash, HTML, CSS  
+**Languages:** Python, SQL, JavaScript, C, Bash, HTML, CSS  
 **Cloud & Infrastructure:** AWS Lambda, Amazon ECR, Amazon S3, API Gateway, CloudWatch, Docker, Terraform  
 **Data Platforms & Analytics:** Snowflake, Power BI, Tableau, Excel, JSON  
 **Development Tools:** Git, GitHub, Jira, Agile/Scrum  
