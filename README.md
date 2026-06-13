@@ -80,7 +80,7 @@ Supported biological research involving *C. elegans* by analyzing live video dat
 
 Developed a Python pipeline that cleaned, validated, and transformed raw computer vision data into structured basketball analytics datasets. The system calculated shooting percentages, shot distances, court-zone efficiency, and spatial heatmap coordinates.
 
-### [AI Contract Analytics Platform](https://github.com/Ethan-Childs/ai-contract-analysis-platform)
+### AI Contract Analytics Platform
 
 **Technologies:** JavaScript, HTML, CSS, Python, JSON
 
@@ -88,10 +88,6 @@ Built the frontend for an AI-powered contract analysis application, including do
 
 - [View the GitHub Repository](https://github.com/Ethan-Childs/ai-contract-analysis-platform)
 
-<!---
-Ethan-Childs/Ethan-Childs is a special repository because its README.md appears on the GitHub profile.
---->
-```
 
 
 
