@@ -56,11 +56,13 @@ My primary interests include data engineering, analytics engineering, cloud infr
 
 ### MLO Data Automation Application
 **Technologies:** Python, SQL, Snowflake, Flask, JavaScript, HTML, CSS, AWS Lambda, Amazon ECR, API Gateway, Amazon S3, CloudWatch, Docker, Terraform
+
 A full-stack data application developed for PACCAR to automate vehicle-data retrieval and reduce a manual lookup process from approximately 20 minutes to near-instant results.
 
 
 ### NASA Space Biology Research — NemaLife
 **Technologies:** Python, SQL, Power BI, Excel, JSON, data visualization
+
 Supported biological research involving *C. elegans* by analyzing live video data, evaluating microfluidic chip responses, validating experimental datasets, and developing Power BI visualizations to track key research metrics.
 
 - [View the NASA Open Science Data Repository Study — OS-780](https://osdr.nasa.gov/bio/repo/data/experiments/OS-780)
@@ -74,6 +76,7 @@ Developed a Python pipeline that cleaned, validated, and transformed raw compute
 
 ### AI Contract Analytics Platform
 **Technologies:** JavaScript, HTML, CSS, Python, JSON
+
 Built the frontend for an AI-powered contract analysis application, including document-upload functionality, an interactive chatbot interface, custom LLM API-key integration, and responsive components for displaying compliance reports.
 
 
