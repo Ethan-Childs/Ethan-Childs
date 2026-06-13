@@ -70,6 +70,7 @@ Supported biological research involving *C. elegans* by analyzing live video dat
 
 ### Basketball Analytics Data Pipeline
 **Technologies:** Python, pandas, Excel, computer vision data, data analytics
+
 Developed a Python pipeline that cleaned, validated, and transformed raw computer vision data into structured basketball analytics datasets. The system calculated shooting percentages, shot distances, court-zone efficiency, and spatial heatmap coordinates.
 
 
